@@ -1,11 +1,7 @@
 import HorizontalScrolling from "./HorizontalScrolling";
 
 const App = () => {
-  return (
-    <div>
-      <HorizontalScrolling />
-    </div>
-  );
+  return <HorizontalScrolling />;
 };
 
 export default App;
